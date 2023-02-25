@@ -2,7 +2,7 @@
   "name": "word-game",
   "version": "0.1.0",
   "private": true,
-  "author": "Josh Comeau <me@joshwcomeau.com>",
+  "author": "Sheryl Hohman",
   "dependencies": {
     "new-component": "4.0.0",
     "prettier": "^2.6.2",
